@@ -7,6 +7,8 @@ this project is a prototype that solve a problem we are facing in our company "V
 we agreed on a protocol that each one should mention its status (signed in, signed out, away, ...etc) in a group that all the company employess are participated in, the problem with this was to follow up with each one status, and also can't keep track how money hours each employee spent working.
 so our applicatoin can provide customized fucntionality that provide this status in one click away for each user, and also keep track in the database each user sign in, sign out and away time, also keep track how many hours each user spent working.
 
+### project potential
+
 Sure this is just a prototype and provide very tiny part of it could be capable of in the future, like making privilaged account for the owner and HR in the company so they can be provided with states and charts about each user activities and commitment.
 Also it can be chat, call and video app just for this company so all members can communicate with each other, organize meets and a lot more.
 
