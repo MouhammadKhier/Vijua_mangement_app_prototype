@@ -10,7 +10,7 @@ class BaseConfig:
 
 
 class DevelopmentConfig(BaseConfig):
-    DATABASE_URI = "mongodb+srv://Prototype:123456789123456789@prototype.38psx.mongodb.net/Prototype?retryWrites=true&w=majority"
+    DATABASE_URI = "addYourURI"
     DATABASE_NAME = "Prototype"
     ENV = 'development'
     DEBUG = True
@@ -19,5 +19,5 @@ class DevelopmentConfig(BaseConfig):
 class ProductionConfig(BaseConfig):
     ENV = 'production'
     DEBUG = False
-    DATABASE_URI = "mongodb+srv://Prototype:123456789123456789@prototype.38psx.mongodb.net/Prototype?retryWrites=true&w=majority"
+    DATABASE_URI = "addYourURI"
     DATABASE_NAME = "Prototype"
